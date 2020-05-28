@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Meritseger Targarien](https://up.htmlacademy.ru/javascript/20/user/99296).
-* Наставник: `Неизвестно`.
+* Наставник: Талифа Аушева.
 
 ---
 
